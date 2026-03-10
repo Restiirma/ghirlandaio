@@ -18,7 +18,7 @@ Kami menyadari bahwa makalah ini masih jauh dari kata sempurna. Oleh karena itu,
 # BAB I : PENDAHULUAN
 Perkembangan ilmu pengetahuan dan teknologi telah membawa perubahan besar dalam kehidupan manusia. Dalam proses tersebut, sains dan agama sering kali dipandang sebagai dua hal yang berbeda, namun keduanya sama-sama memiliki peran penting dalam membentuk cara manusia memahami dunia dan kehidupannya. Sains berusaha menjelaskan fenomena alam melalui penelitian, eksperimen, dan pendekatan rasional, sedangkan agma mamberikan pedoman nilai, makna hidup, serta keyakinan spiritual bagi manusia.
 
-Pada buku **Homo Deus: A Brief History of Tomorrow** karya **Yuval Noah Harari**, dijelaskan bahwa perkembangan sains modern telah merubah cara manusia memandang dunia, termasuk hubungannya dengan agama dan kepercayaan. Kemajuan sains tidak hanya memengaruhi teknologi dan kehidupan sosial, tetapi juga memunculkan berbagai pertanyaan baru mengenai peran agama, makna manusia, serta masa depan peradaban.
+Pada buku **Homo Deus: Masa Depan Umat Manusia** karya **Yuval Noah Harari**, dijelaskan bahwa perkembangan sains modern telah merubah cara manusia memandang dunia, termasuk hubungannya dengan agama dan kepercayaan. Kemajuan sains tidak hanya memengaruhi teknologi dan kehidupan sosial, tetapi juga memunculkan berbagai pertanyaan baru mengenai peran agama, makna manusia, serta masa depan peradaban.
 
 Oleh karena itu, pembahasan mengenai hubungan antara sains dan agama menjadi penting untuk memahami bagaimana keduanya dapat saling berinteraksi dalam kehidupan manusia. Makalah ini akan membahas secara singkat bagaimana sains dan agama berkembang, serta bagaimana keduanya memengaruhi cara manusia memahami realitas dan masa depan peradaban.
 
