@@ -1,7 +1,7 @@
 # Resume Pertemuan Kedua Mata Kuliah Perpustakaan dan Arsip Digital
 
 ## Pendahuluan
-Pada pertemuan kedua mata kuliah perpustakaan dan arsip digital hari Rabu 11 Maret 2026, diadakan presentasi hasil diskusi dari kelompok satu yang membahas mengenai Pola Hubungan antara Sains dan Agama.
+Pada pertemuan kedua mata kuliah perpustakaan dan arsip digital hari Rabu 11 Maret 2026, diadakan presentasi hasil diskusi dari kelompok satu yang membahas mengenai Pola Hubungan antara Sains dan Agama. Dan juga mengenai Darimnana agama memperoleh sumber pengetahuan.
 
 ## Pembahasan
 Dalam pembahasan mereka mengenai Pola Hubungan antara Sains dan Agama, kelompok satu menjelaskan bahwa sains dan agama memiliki peran yang berbeda namun saling mempengaruhi, yaitu sains dalam hal pemikiran dan agama dalam hal makna.
