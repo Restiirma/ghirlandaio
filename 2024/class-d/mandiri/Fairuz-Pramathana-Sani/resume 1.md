@@ -25,4 +25,4 @@ Kebenaran dalam agama didasarkan pada wahyu, kitab suci, tradisi, dan kekuasaan 
 1. Ian G. Barbour - when Science Meets Religion
 2. Stephen Jay Gould - Nonoverlapping Magisteria
 3. Materi Persentasi Kelompok 1 "Hubungan Antara Sains dan Agama
-[Resume Materi Hubungan Antara Sains dan Agama - Fairuz Pramathana Sani.md](https://github.com/user-attachments/files/26485831/Resume.Materi.Hubungan.Antara.Sains.dan.Agama.-.Fairuz.Pramathana.Sani.md)
+
