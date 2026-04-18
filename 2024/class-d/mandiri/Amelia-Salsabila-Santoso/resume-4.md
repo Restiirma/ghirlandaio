@@ -18,3 +18,9 @@ Namun, meskipun begitu, menurut saya kompleksitas ancaman itu tidak hanya diseba
 
 ## Kesimpulan
 Ancaman siber dalam perpustakaan digital berkembang dari yang sederhana hingga kompleks seiring dengan kemajuan teknologi dan meningkatnya keterhubungan sistem. Ancaman yang awalnya hanya berupa virus kini berkembang menjadi serangan yang lebih kompleks seperti pencurian data, peretasan sistem, phising, ransomware, Ddos, dan serangan terorganisir. Oleh karena itu, diperlukan upaya keamanan lebih lanjut, tidak hanya berfokus teknologi, tetapi juga peningkatan sumber daya manusia dan penerapan prinsip etika untuk menjaga keamanan dan kepercayaan pengguna perpustakaan.
+
+## Referensi
+Kelompok 4. (2026). Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis (Materi Presentasi).
+
+Triandi, A.P. (2022). Studi Kepustakaan: Keamanan informasi di Perpustakaan Digital. Visi Pustaka, Vol. 24(3)
+https://doi.org/10.37014/visipustaka.v24i3.3244 
