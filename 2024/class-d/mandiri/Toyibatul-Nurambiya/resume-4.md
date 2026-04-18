@@ -6,7 +6,7 @@
 ## Analisis
 Resume ini disusun untuk mengetahui integritas adalah menjaga data agar tetap asli dan tidak diubah secara ilegal.
 ## Konteks
-Resume ini dibuat berdasarkan pertanyaan dari Kelompok 4 "Apa yang dimaksud dengan integrity?"
+Resume ini dibuat berdasarkan pertanyaan dari Kelompok 4 "Apa yang dimaksud dengan integrity atau integritas?"
 ## Opini dan Argumen
 Menurut pendapat saya, integritas dalam teknologi informasi secara tepat diartikan sebagai upaya untuk menjaga keaslian dan keutuhan data. Data yang berintegrasi berarti tetap sama, tidak diubah, tidak dikurangi, atau ditambahkan tanpa izin.
 ## Pendahuluan
